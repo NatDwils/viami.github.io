@@ -888,6 +888,7 @@ section {
   background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
+  background-repeat: no-repeat;
 }
 
 .cta h3 {
@@ -1645,11 +1646,12 @@ section {
 }
 
 #footer .footer-top .footer-info {
-  margin-top: -90px;
+  margin-top: -60px;
   margin-bottom: 15px;
   background: white;
   color: #2f4d5a;
-  border-top: 4px solid #2c4269;
+  border-top: 4px solid #698fc0;
+  border-bottom: 4px solid #698fc0;
   text-align: center;
   padding: 30px 20px;
 }
